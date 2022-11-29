@@ -43,7 +43,5 @@ I’m a software developer with a focus in user experience, believing that tech 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-<p style="display:flex; margin-top: 24px; align-items: center; ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dabyzness&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabyzness&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+[![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabyzness&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dabyzness&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

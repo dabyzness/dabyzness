@@ -10,8 +10,8 @@ I’m a software developer with a focus in user experience, believing that tech 
 
 ### **Things I'm working on**:
 
-- Restructuring my [Plantra Project](https://github.com/dabyzness/plantra) into a PERN stack with TypeScript and containerized with Docker
-- Learning Data Structures and Algorithms on CodeWars and LeetCode
+- Learning TypeScript + Next.JS
+- CodeWars + LeetCode
 - Growing my tech stack
 - Writing articles in Notion to help me and my fellow GA-grads learn and retain new information
 - Training my dog, Beans, to do a back-flip

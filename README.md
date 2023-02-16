@@ -10,10 +10,9 @@ I’m a software developer with a focus in user experience, believing that tech 
 
 ### **Things I'm working on**:
 
-- Learning TypeScript + Next.JS
+- Building a full stack app for gamifying habits
 - CodeWars + LeetCode
-- Growing my tech stack
-- Writing articles in Notion to help me and my fellow GA-grads learn and retain new information
+- Applying for jobs -- hire me if you want
 - Training my dog, Beans, to do a back-flip
 
 ### **Current Skills:**
@@ -34,14 +33,6 @@ I’m a software developer with a focus in user experience, believing that tech 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### **Currently Learning / Interested In:**
-
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 [![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabyzness&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dabyzness&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
